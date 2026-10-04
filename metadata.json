@@ -1,0 +1,6 @@
+{
+  "name": "Bravia Remote",
+  "description": "Ultra-low-latency remote control for Sony Bravia and Google TVs with virtual keyboard, 4K mouse cursor trackpad, input switching, and volume controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Remote Controller Body -->
+    <path
+        android:fillColor="#2D3748"
+        android:pathData="M38,22 H70 A6,6 0 0,1 76,28 V80 A6,6 0 0,1 70,86 H38 A6,6 0 0,1 32,80 V28 A6,6 0 0,1 38,22 Z" />
+
+    <!-- Remote Inner Surface -->
+    <path
+        android:fillColor="#1E2433"
+        android:pathData="M40,24 H68 A4,4 0 0,1 72,28 V78 A4,4 0 0,1 68,82 H40 A4,4 0 0,1 36,78 V28 A4,4 0 0,1 40,24 Z" />
+
+    <!-- Power Button (Top Left) -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M42,28 A3,3 0 1,0 48,28 A3,3 0 1,0 42,28 Z" />
+
+    <!-- Google TV / Bravia Accent LED (Top Right) -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M60,28 A2.5,2.5 0 1,0 65,28 A2.5,2.5 0 1,0 60,28 Z" />
+
+    <!-- D-Pad Navigation Outer Ring -->
+    <path
+        android:fillColor="#334155"
+        android:pathData="M54,38 C47.37,38 42,43.37 42,50 C42,56.63 47.37,62 54,62 C60.63,62 66,56.63 66,50 C66,43.37 60.63,38 54,38 Z" />
+
+    <!-- D-Pad Center OK Button -->
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M54,46 C51.79,46 50,47.79 50,50 C50,52.21 51.79,54 54,54 C56.21,54 58,52.21 58,50 C58,47.79 56.21,46 54,46 Z" />
+
+    <!-- D-Pad Directional Indicators -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M53,40 h2 v3 h-2 z M53,57 h2 v3 h-2 z M44,49 h3 v2 h-3 z M61,49 h3 v2 h-3 z" />
+
+    <!-- Lower Controls: Volume, Input, Trackpad hints -->
+    <path
+        android:fillColor="#475569"
+        android:pathData="M42,66 h8 v4 h-8 z M58,66 h8 v4 h-8 z M42,73 h10 v3 h-10 z M56,73 h10 v3 h-10 z" />
+
+    <!-- Broadcast Signal Wave at Top of Remote -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M48,16 C51.8,14.5 56.2,14.5 60,16 L59,18 C55.8,16.8 52.2,16.8 49,18 Z" />
+</vector>
